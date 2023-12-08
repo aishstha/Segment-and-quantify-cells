@@ -1,5 +1,5 @@
 
-This project would aid the researchers in evaluating the DNA damage of cells under stress. Helps to dentifying and quantifying the nuclei (cell).
+This initiative supports researchers in automating nuclei segmentation through a deep learning model trained on our dataset, providing quantified results in an Excel file. It facilitates the identification and quantification of cell nuclei.
     
 ## Prerequisites
 
