@@ -9,12 +9,15 @@ This initiative supports researchers in automating nuclei segmentation through a
 - [pandas](https://pypi.org/project/pandas/) - 1.5.2
 - [skimage](https://pypi.org/project/scikit-image/) - 0.19.3
 
-## Setup For post-processing
+## The repository's scripts are organized into three sections: pre-processing, deep learning model, and post-processing
+
+## Setup 
 Clone the repository, install the dependencies and get started right away.
 
-    $ [git clone git@github.com:aishstha/Quantify-nuclei.git](https://github.com/aishstha/Segment-and-quantify-cells.git)
+    $ git clone git@github.com:aishstha/Segment-and-quantify-cells.git](https://github.com/aishstha/Segment-and-quantify-cells.git)
     $ cd Segment-and-quantify-cells
-    
+  
+## For post-processing  
 Example :
 ```bash
 $ ./segment_script.py  "Data/IXMtest_C05_s7_w1F71963FB-8F29-41CB-A5F5-07CB9584BBC5.tif"
